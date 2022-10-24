@@ -29,7 +29,7 @@
             </table>
         </div>
     </div>
-    <h2 class="page-header text-center">CRUD laravel basic</h2>
+    
     <div class= "text-center">
         <input type="text" placeholder="searchkey needed" class="search_box">
         <button type="button" class="btn btn-secondary search_button">Search</button>
